@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+    id 'project-report'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'junit:junit:4.12'
+    testImplementation 'org.hamcrest:hamcrest-library:2.2'
+    testImplementation 'org.mockito:mockito-all:1.10.19'
+}
+
+//gradle dependencies --configuration textCompile
+//gradle htmlDependencyReport
