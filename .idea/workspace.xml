@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="484a73cb-89cf-40eb-b0c9-e440c893c9d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/JunitProject/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JunitProject/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/JunitProject/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JunitProject/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/JunitProject/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/JunitProject/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JunitProject/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/JunitProject/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JunitProject/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/JunitProject/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JunitProject/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/build/classes/java/test/mockito/business/TodoInjectMockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/JunitProject/build/classes/java/test/mockito/business/TodoInjectMockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/build/reports/tests/test/classes/mockito.business.TodoInjectMockTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JunitProject/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/build/reports/tests/test/packages/mockito.business.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/build/test-results/test/TEST-mockito.business.TodoInjectMockTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JunitProject/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JunitProject/build/test-results/test/binary/results.bin" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nKzBNMHSjm75iX74aPkUe9wwhe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PpsService" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="484a73cb-89cf-40eb-b0c9-e440c893c9d7" name="Default Changelist" comment="" />
+      <created>1611153433327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611153433327</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="14" key="#C:/wipro/cellent/pps/workspace/intellij/Junit/JunitProject/build.gradle" timestamp="1620885946002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="14" key="#C:/wipro/cellent/pps/workspace/intellij/Junit/JunitProject/build.gradle/0.0.1536.824@0.0.1536.824" timestamp="1620885946002" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1620886026017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1620886026017" />
+    <state x="209" y="23" key="new project wizard" timestamp="1619165173012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="23" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1619165173012" />
+  </component>
+</project>
